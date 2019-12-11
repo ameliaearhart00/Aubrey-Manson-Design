@@ -2054,7 +2054,8 @@ button:focus {
   margin-bottom: 18px;
 }
 .agency-banner-content.banner-style7 .banner-title {
-  font-size: 5.625rem;
+  /* font-size: 5.625rem; */
+  font-size: 4.75rem;
   font-family: "proxima-nova", sans-serif;
   font-weight: 900;
   line-height: 1;
@@ -8084,7 +8085,7 @@ blockquote::before {
           68. portfolio banner
 ===============================================*/
 .banner-portfolio {
-  min-height: 700px;
+  min-height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
