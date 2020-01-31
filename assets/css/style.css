@@ -4565,7 +4565,8 @@ button:focus {
           28. agency case details banner
 ===============================================*/
 .case-details-banner {
-  background-color: #00a39a;
+  /* background-color: #00a39a; */
+  background-color: gray;
   min-height: 800px;
   display: -webkit-box;
   display: -ms-flexbox;
